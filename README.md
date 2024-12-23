@@ -1,5 +1,7 @@
 # Bloch Sphere Visualization
 
+![image](https://github.com/user-attachments/assets/a796bd21-75bd-4fda-ad35-397ccfa413a0)
+
 An interactive 3D visualization of the Bloch Sphere using React and TypeScript. This project provides a visual representation of quantum states on the Bloch sphere with interactive rotation and state plotting capabilities.
 
 ## Features
