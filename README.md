@@ -10,11 +10,13 @@ An interactive 3D visualization of the Bloch Sphere using React and TypeScript. 
 - Visual depth perception with opacity changes
 - Responsive SVG-based rendering
 
+![image](https://github.com/user-attachments/assets/a796bd21-75bd-4fda-ad35-397ccfa413a0)
+
 ## Installation
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/bloch-sphere-tsx.git
+git clone https://github.com/angrysky56/bloch-sphere-tsx.git
 cd bloch-sphere-tsx
 ```
 
