@@ -16,7 +16,7 @@ An interactive 3D visualization of the Bloch Sphere using React and TypeScript. 
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/bloch-sphere-tsx.git
+git clone https://github.com/angrysky56/bloch-sphere-tsx.git
 cd bloch-sphere-tsx
 ```
 
